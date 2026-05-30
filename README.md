@@ -6,15 +6,16 @@ This project implements a complete SystemVerilog verification environment for a 
 
 ---
 
-<div align="center">
+
+
+
+## Testbench Components
+
+<p align="center">
 
 <img width="412" height="527" alt="Screenshot 2026-05-31 at 1 19 35 AM" src="https://github.com/user-attachments/assets/950abb8a-cbc9-4655-81ae-c0b7fe4a433b" />
 
-</div>
-
----
-
-## Testbench Components
+</p>
 
 ### Transaction
 
